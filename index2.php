@@ -2421,7 +2421,7 @@ margin-top:10%;
         <ul>
         <li>Vinitha - 8754094512</li>
         <li>Yogeswaran - 9790191669</li>
-        <li>Email at <b><u>workshop@civilisation.org.in</u></b>
+        <li>Email at <b><u>workshops@civilisation.org.in</u></b>
       </li>
       </ul>
 
@@ -2429,6 +2429,7 @@ margin-top:10%;
     <div class="tab-pane fade" id="tab65">
 <div class="text-center">
     <h3 class="text-center" style="color:green;font-family:verdana;display:block;" id="hide-text"></h3>
+    <h3 style="font-size: 20px;">You will be redirected to <b>thecollegefever.com</b>, where the online payment will be processed</h3>
   <button class="btn" id="acc-btn" onclick="location.href=''">Pay Now</button>
   </div>
 
@@ -2603,7 +2604,7 @@ Tourepedia organises wide range of trips like family trips,honeymoon trips, educ
              <!--   </div><!--/well-->
          <!--   </div-->
 
-         <h2 class="text-center" style="color:white">will be update soon...</h2>
+         <h2 class="text-center" style="color:white">Will be updated soon...</h2>
         </div>
    </div>
 
@@ -2631,6 +2632,7 @@ Tourepedia organises wide range of trips like family trips,honeymoon trips, educ
   <div class="tab-content">
         <div class="tab-pane fade in active" id="tab71">
           <ul>
+                <li>Accommodation will begin from the night of 15th March to 18th March.</li>
                 <li>Accommodation will be provided for both boys and girls.</li>
                 <li>Rs.200 per day will be collected as an accommodation fee<b> + </b>Rs.100 as an advance.</li>
                 <li>Rs.500 will be collected for those who stay all 3 days<b> + </b>Rs.100 as an advance.</li>
@@ -2645,8 +2647,8 @@ Tourepedia organises wide range of trips like family trips,honeymoon trips, educ
                 <li>Due to water scarcity in Chennai students are requested not to waste water unnecessarily.</li>
                 <li>Any issue during the stay should be brought to our knowledge immediately.</li>
                 <li>The registered name should match with the name on the college id.</li>
-                <li>The last date for registeration is 12-3-2017.</li>
-                <li>Priority will be given for online registeration.</li>
+                <li>The last date for registration is 12-3-2017.</li>
+                <li>Priority will be given for online registration.</li>
 
           </ul>
           <!-- <marquee scrollamout='5'><h2 class="awesome">Some Text Some Text Some Text</h2></marquee>-->
@@ -2662,7 +2664,10 @@ Tourepedia organises wide range of trips like family trips,honeymoon trips, educ
 
 <div class="tab-pane fade" id="tab99">
 <div id="div1" class="text-center">
-  <h3 class="text-center" style="color:green;font-family:verdana;display:block;" id="hide-text"></h3>
+  <h3 class="text-center" style="color:green;font-family:verdana;display:none;" id="hide-text"></h3>
+  <div style="color:green;">
+  <h4 style="font-size:20px;" class="text-center">Online registration is mandatory. Payment will be collected on the day of accomodation.</h4>
+  </div>
   <button class="btn" id="acc-btn">Register</button>
 </div>
 </div>
@@ -2730,7 +2735,7 @@ Tourepedia organises wide range of trips like family trips,honeymoon trips, educ
         <ul>
         <li>Vinitha - 8754094512</li>
         <li>Yogeswaran - 9790191669</li>
-        <li>Email at <b><u>workshop@civilisation.org.in</u></b>
+        <li>Email at <b><u>workshops@civilisation.org.in</u></b>
       </li>
       </ul>
 
@@ -2738,6 +2743,7 @@ Tourepedia organises wide range of trips like family trips,honeymoon trips, educ
     <div class="tab-pane fade" id="tab98">
         <div class="text-center">
             <h3 class="text-center" style="color:green;font-family:verdana;display:block;" id="hide-text"></h3>
+            <h3 style="font-size: 20px;">You will be redirected to <b>thecollegefever.com</b>, where the online payment will be processed</h3>
           <button class="btn" id="acc-btn" onclick="location.href='loginform.php'">Pay Now</button>
         </div>
 
@@ -3563,7 +3569,7 @@ In case of any disputes, the decision of the coordinators would be final and bin
         </div>
         <div class="col-sm-9 col-md-4 block-cont cont">
                                         <h3 style="color:yellow">Dr. G. Dhinagaran Asst.Prof</h3>
-                                        <p>CES,Anna university,</p>
+                                        <p>CES,Anna University</p>
                                         <p>Treasurer</p>
                                         <p>Society of Civil Engineers.</p>
         </div>
@@ -3638,7 +3644,7 @@ In case of any disputes, the decision of the coordinators would be final and bin
           <div class="col-sm-3 col-md-6">
 
                         <div class="col-sm-3 col-md-6 cont">
-                   <img src="sponsor/a2.jpg" width="90%">
+                   <img src="sponsor/a4.jpg" width="90%">
               </div>
 
               <div class="col-sm-9 col-md-6">
@@ -3674,7 +3680,7 @@ In case of any disputes, the decision of the coordinators would be final and bin
                             <img src="sponsor/a1.jpg" width="50%">
                           </div>
                           <div class="col-lg-3 col-sm-6">
-                            <img src="sponsor/a4.jpg" width="50%">
+                            <img src="sponsor/a2.jpg" width="50%">
                           </div>
                           <div class="col-lg-3 col-sm-6">
                           <img src="sponsor/a6.jpg" width="50%">
